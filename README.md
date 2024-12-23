@@ -1,13 +1,13 @@
 <div align=center>
-<h4>Olá, seja bem-vindo(a) ao meu perfil!</h4>
+<h2>Olá, seja bem-vindo(a) ao meu perfil!</h2>
 
-<h4> Quem sou? 👀</h4>
+<h3> Quem sou? 👀</h3>
 
 
 
 Me chamo Matheus Silva, também conhecido como *dimi*, sou um ex-analista de segurança da informação atualmente em migração de carreira. Sou completamente apaixonado por tecnologia e trago na bagagem um conhecimento sólido em Redes de Computadores, Computação em Nuvem, Segurança Ofensiva e Defensiva, Segurança em Redes Wireless e claro, Programação e Desenvolvimento.
 
-<h4>Curiosidades sobre mim 🧑🏻‍💻</h4>
+<h3>Curiosidades sobre mim 🧑🏻‍💻</h3>
 
 Sou ex-musicista que ainda ama tocar, ex-fotógrafo que ainda adora tirar fotos, tenho por hobbies a arte do desenho com grafite e ilustração digital, gosto muito de escrever e mais ainda de ler.
 
