@@ -41,7 +41,7 @@ E não posso deixar de citar que sou um profundo amante de J.R.R. Tolkien e P.H.
 </div>
 
 <div align="center">
-    <h4>Meus Sistema Operacionais preferidos</h4>
+    <h4>Meus Sistemas Operacionais preferidos</h4>
     <p>
         <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=windows,redhat&theme=light" />
