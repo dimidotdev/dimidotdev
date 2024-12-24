@@ -11,7 +11,7 @@ Me chamo Matheus Silva, também conhecido como *dimi*, sou um ex-analista de seg
 
 Sou ex-musicista que ainda ama tocar, ex-fotógrafo que ainda adora tirar fotos, tenho por hobbies a arte do desenho com grafite e ilustração digital, gosto muito de escrever e mais ainda de ler.
 
-E não posso deixar de citar que sou um profundo amante de J.R.R. Tolkien e P.H. Lovecraft! 🧛🏻
+E não posso deixar de citar que sou um profundo amante de J.R.R. Tolkien e H.P. Lovecraft! 🧛🏻
 </div>
 <div align="center">
     <h4>Linguagens de programação</h4>
