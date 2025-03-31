@@ -17,7 +17,7 @@ E não posso deixar de citar que sou um profundo amante de J.R.R. Tolkien e H.P.
     <h4>Linguagens de programação</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,javascript,typescript,ruby,bash&theme=light" />
+            <img src="https://skillicons.dev/icons?i=java,dart,javascript,typescript,ruby,bash&theme=light" />
         </a>
     </p>
 </div>
@@ -26,7 +26,7 @@ E não posso deixar de citar que sou um profundo amante de J.R.R. Tolkien e H.P.
     <h4>Frameworks</h4>
     <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=spring,react,express,next,nest,rails&theme=light" />
+            <img src="https://skillicons.dev/icons?i=spring,flutter,react,express,next,nest,rails&theme=light" />
         </a>
     </p>
 </div>
